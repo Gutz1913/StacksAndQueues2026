@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingList.UI.Console",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuesDemo.UI.Console", "QueuesDemo.UI.Console\QueuesDemo.UI.Console.csproj", "{0084F921-1C5F-4772-B361-35DE528C3E1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks.Backend", "Stacks.Backend\Stacks.Backend.csproj", "{C2367F86-B102-4DCC-8CB4-D636FE574A78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0084F921-1C5F-4772-B361-35DE528C3E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0084F921-1C5F-4772-B361-35DE528C3E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0084F921-1C5F-4772-B361-35DE528C3E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2367F86-B102-4DCC-8CB4-D636FE574A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2367F86-B102-4DCC-8CB4-D636FE574A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2367F86-B102-4DCC-8CB4-D636FE574A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2367F86-B102-4DCC-8CB4-D636FE574A78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
