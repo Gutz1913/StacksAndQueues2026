@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues.Backend", "Queues.Backend\Queues.Backend.csproj", "{68764909-E01C-46D5-94E7-C12CBEF09184}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingArray.UI.Console", "QueueUsingArray.UI.Console\QueueUsingArray.UI.Console.csproj", "{EEE222A2-32EB-4658-80C4-6B0BFA56DBF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingList.UI.Console", "QueueUsingList.UI.Console\QueueUsingList.UI.Console.csproj", "{816103D9-1145-4E24-8AFF-5749E756EF4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{68764909-E01C-46D5-94E7-C12CBEF09184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68764909-E01C-46D5-94E7-C12CBEF09184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68764909-E01C-46D5-94E7-C12CBEF09184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE222A2-32EB-4658-80C4-6B0BFA56DBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE222A2-32EB-4658-80C4-6B0BFA56DBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE222A2-32EB-4658-80C4-6B0BFA56DBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE222A2-32EB-4658-80C4-6B0BFA56DBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816103D9-1145-4E24-8AFF-5749E756EF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816103D9-1145-4E24-8AFF-5749E756EF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816103D9-1145-4E24-8AFF-5749E756EF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816103D9-1145-4E24-8AFF-5749E756EF4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
