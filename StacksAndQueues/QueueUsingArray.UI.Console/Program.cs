@@ -1,5 +1,4 @@
 ﻿using Queues.Backend;
-using System.ComponentModel.Design;
 
 var queue = new QueueUsingArray<int>(5);
 var opt = string.Empty;
