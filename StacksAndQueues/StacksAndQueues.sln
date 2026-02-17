@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingArray.UI.Console"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingList.UI.Console", "QueueUsingList.UI.Console\QueueUsingList.UI.Console.csproj", "{816103D9-1145-4E24-8AFF-5749E756EF4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuesDemo.UI.Console", "QueuesDemo.UI.Console\QueuesDemo.UI.Console.csproj", "{0084F921-1C5F-4772-B361-35DE528C3E1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{816103D9-1145-4E24-8AFF-5749E756EF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{816103D9-1145-4E24-8AFF-5749E756EF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{816103D9-1145-4E24-8AFF-5749E756EF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0084F921-1C5F-4772-B361-35DE528C3E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0084F921-1C5F-4772-B361-35DE528C3E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0084F921-1C5F-4772-B361-35DE528C3E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0084F921-1C5F-4772-B361-35DE528C3E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
